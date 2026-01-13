@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="monthly_sales.png" width="600">
+</p>
+
 # Excel売上自動集計ツール
 
 ## 概要
@@ -24,6 +28,3 @@
 1. 必要ライブラリをインストール
 ```bash
 pip install -r requirements.txt
-
-## 月別売上グラフ
-![月別売上グラフ](monthly_sales.png)
