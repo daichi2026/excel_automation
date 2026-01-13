@@ -26,4 +26,4 @@
 pip install -r requirements.txt
 
 ## 月別売上グラフ
-![Monthly Sales](monthly_sales.png)
+![月別売上グラフ](monthly_sales.png)
