@@ -24,3 +24,6 @@
 1. 必要ライブラリをインストール
 ```bash
 pip install -r requirements.txt
+
+## 月別売上グラフ
+![Monthly Sales](monthly_sales.png)
